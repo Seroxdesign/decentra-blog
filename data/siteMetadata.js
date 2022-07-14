@@ -1,8 +1,8 @@
 const siteMetadata = {
   title: 'The Blog',
-  author: 'Sero',
-  headerTitle: 'Serotonin Development',
-  description: 'Development made simple.',
+  author: 'Daniel and Sero',
+  headerTitle: 'Decentra Acadamy',
+  description: 'Decentralised Academy',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
@@ -10,10 +10,9 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'admin@serotonindesigns.com',
-  github: 'https://github.com/seroxdesign',
-  twitter: 'https://twitter.com/seroxdesigns',
-  youtube: 'https://www.youtube.com/c/SerotoninExperience',
+  email: 'daniel@decentra.so',
+  github: 'https://github.com/Decentra-so',
+  twitter: 'https://twitter.com/DecentraHQ',
   linkedin: 'https://www.linkedin.com/in/sero-346b85202/',
   locale: 'en-US',
   analytics: {
